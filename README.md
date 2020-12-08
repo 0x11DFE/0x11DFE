@@ -19,7 +19,7 @@ globalThis.Tesla = {
         '.NET',
         'PHP',
         'Reverse Engineering',
-        'Listenning/Writting Rap',
+        'Listening/Writing Rap',
         'Making the www a better place'
     ],
     LoveYou: Boolean(!1337),
