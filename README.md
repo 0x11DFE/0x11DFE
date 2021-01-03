@@ -33,7 +33,7 @@ while (Tesla.LoveYou === false) {
     Tesla.LoveYou = Boolean(1337);
 
     if (Tesla.LoveYou) {
-        Tesla.TheyMightBeWandering;
+        Tesla.TheyMightBeWondering;
         hmmmm = Tesla.ItProbablyMeans(Tesla.Social.GitHub);
         oh_i_also_have_a_reddit = 'https://www.reddit.com/user/' + hmmmm;
 
