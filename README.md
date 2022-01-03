@@ -2,13 +2,13 @@
 
 <div align="left">
   <a href="https://app.daily.dev/Tesla" target="_blank">
-    <img width="150" align="left" src="https://raw.githubusercontent.com/0x11DFE/0x11DFE/devcard/devcard.svg">
+    <img width="146" align="left" src="https://raw.githubusercontent.com/0x11DFE/0x11DFE/devcard/devcard.svg">
   </a>
 </div>
 
 <div align="right">
   <a href="https://github.com/0x11DFE" target="_blank">
-    <img width="150" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=eq0o2y8dsh6i76v91eqk9alzd&cover_image=true&theme=default">
+    <img width="146" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=eq0o2y8dsh6i76v91eqk9alzd&cover_image=true&theme=default">
   </a>
 </div>
 
