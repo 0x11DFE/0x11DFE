@@ -8,7 +8,7 @@
 
 <div align="right">
   <a href="https://github.com/0x11DFE" target="_blank">
-    <img width="146" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=eq0o2y8dsh6i76v91eqk9alzd&cover_image=true&theme=default">
+    <img width="146" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=eq0o2y8dsh6i76v91eqk9alzd&cover_image=true&theme=default&bar_color=e74c3c&bar_color_cover=false">
   </a>
 </div>
 
