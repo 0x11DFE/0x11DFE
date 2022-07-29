@@ -27,8 +27,6 @@
 ## Wanna know more about me ?
 
 ```js
-const Getz = async (url, init) => new Promise((resolve, reject) => fetch(url, init).then(response => response.clone()).then(cloned_response => resolve(cloned_response)).catch(error => reject(error)))
-
 globalThis.Tesla = {
     Socials: {
         GitHub: '0x11DFE',
