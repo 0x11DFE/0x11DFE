@@ -6,10 +6,18 @@
   </a>
 </div>
 
-<div align="right">
-  <a href="https://github.com/0x11DFE" target="_blank">
-    <img width="146" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=eq0o2y8dsh6i76v91eqk9alzd&cover_image=true&theme=default&bar_color=e74c3c&bar_color_cover=false">
-  </a>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=0x11DFE&show_icons=true&theme=dark&hide_border=true&icon_color=E74C3C&hide_title=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=0x11DFE&show_icons=true&hide_border=true&icon_color=E74C3C&hide_title=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=0x11DFE&show_icons=true&hide_border=true&icon_color=E74C3C&hide_title=true&include_all_commits=true&count_private=true" />
+  </picture>
 </div>
 
 <div align="center">
@@ -24,15 +32,13 @@
   </a>
 </div>
 
-## Wanna know more about me ?
+## Wanna know more about me?
 
 ```js
 globalThis.Tesla = {
     Socials: {
         GitHub: '0x11DFE',
-        Telegram: '@T3SL4',
-        Discord: '@Poe#1937',
-        Website: 'Wannabe1337.xyz'
+        Telegram: '@T3SL4'
     },
     Hobbies: [
         'JS',
@@ -40,35 +46,40 @@ globalThis.Tesla = {
         'PHP',
         'Reverse Engineering',
         'Listening/Writing Rap',
-        'Making the www a better place'
+        'Making the WWW a better place'
     ],
     Crypto: {
-        Monero: '42PKLbnXKWiYGEm7D2zE7P9Gdq2uL88PTamyoVos3h4BVrbK8EbNBsC6rRn6vdedXfCsVZUdp1aPVPaLpiuPkaS4DuvF6iX',
-        Bitcoin: 'bc1q0p6cvp5nt20fxp07075l44ytts9qfn6ym5krxh',
+        Bitcoin: 'bc1pkarn9lc8p7kg0zte5jh5w23tpmfd2au8szyxwrk6ycwuk5h360qqg35twp', // TapRoot
         Ethereum: '0xd7808a0b7635462b1c1184767aB382C3A589D0B7',
         Solana: '9dboZP2Re8fW1PqhWTPgwcWjWQiXv8C25tgnjhzZGN1W',
-        Litecoin: 'ltc1q4amnlv907ru0zc90c73nkq9eekxz3w9z4tlps6',
+        Litecoin: 'ltc1q4xcswdu0mpavrdsgups6kqajsfmnv0xcydxyd3',
         Dogecoin: 'DFXJrMQmBX9HdshnnzX1Tf6kUKrAKQBE94',
-        Tron: 'TYcDLXpamsk7owe6RKUj9FdgTZrWMern41',
+        USDT: 'TSgHFznWfRryW6mQ5mTX3pS3Arca5Xbo1T', // TRC20
+        Ton: 'UQB0uGMKN9BGVaXNAPd7PCofj7I7F2AsPdgjfbjiU9_6cUwI',
         XRP: 'rw95kBPu3sMrsewNsSGbRp1zVj9grwdti'
     },
     LoveYou: Boolean(!1337),
-    SayWhoWhat: (what) => console.log(what),
-    ShowSomeLove: (ProbablyLeet) => console.table(ProbablyLeet),
-    ItProbablyMeans: (Tesla) => parseInt(Tesla, (6+6+7)-3),
+
+    // Function to log a given message
+    SayWhoWhat: (message) => console.log(message),
+
+    // Function to display a table of information
+    ShowSomeLove: (data) => console.table(data),
+
+    // Function to calculate a number based on a string input
+    ItProbablyMeans: (input) => parseInt(input, (6 + 6 + 7) - 3),
 }
 
+// Loop to show some love until LoveYou becomes true
 while (Tesla.LoveYou === false) {
     Tesla.ShowSomeLove(Tesla);
     Tesla.LoveYou = Boolean(1337);
-    
 
     if (Tesla.LoveYou) {
         Tesla.SayWhoWhat('What does 0x11DFE mean?');
-        hmmmm = Tesla.ItProbablyMeans(Tesla.Socials.GitHub);
-        oh_i_also_have_a_reddit = `https://www.reddit.com/user/${hmmmm}`;
+        const hmmmm = Tesla.ItProbablyMeans(Tesla.Socials.GitHub);
+        const oh_i_also_have_a_reddit = `https://www.reddit.com/user/${hmmmm}`;
 
         Tesla.SayWhoWhat(oh_i_also_have_a_reddit);
     }
 }
-```
